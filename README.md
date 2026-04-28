@@ -85,7 +85,7 @@
   <a href="https://github.com/sahikxd">
     <img src="https://img.shields.io/badge/GitHub-Profile-000000?style=for-the-badge&logo=github"/>
   </a>
-  <a href="mailto:181819036+sahikxd@users.noreply.github.com">
+  <a href="mailto:indomoro94@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
