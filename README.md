@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sahik</h1>
-
+<!-- BADGES SECTION (your requested one properly placed) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20in-Bangladesh-%2300FF41?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Learning%20Mode-%2300FF41?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack-%2300FF41?style=for-the-badge"/>
+  <a href="https://github.com/sahikxd">
+    <img src="https://img.shields.io/badge/Made%20in-%F0%9F%87%A7%F0%9F%87%A9-green"/>
+  </a>
+  <a href="https://github.com/sahikxd">
+    <img src="https://img.shields.io/badge/Student-Class%2010-blue"/>
+  </a>
+  <a href="https://github.com/sahikxd">
+    <img src="https://img.shields.io/badge/Learning-Python%20%7C%20Git-orange"/>
+  </a>
 </p>
 
 <h3 align="center">💻 Class 11 Student | 🇧🇩 Bangladesh | 🚀 Full-Stack Developer</h3>
@@ -13,6 +19,7 @@
 </p>
 
 ---
+
 
 ## 🧑‍💻 About Me
 - 🎓 Class 11 student from Bangladesh  
